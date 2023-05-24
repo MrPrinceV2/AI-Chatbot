@@ -1,1 +1,10 @@
-
+{
+    "default": [
+        "I'm sorry, I didn't quite understand that.",
+        "Could you please rephrase your statement?",
+        "I'm still learning. Can you be more specific?"
+    ],
+    "how is you": [
+        "I am amazing, you?"
+    ]
+}
