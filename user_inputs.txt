@@ -1,3 +1,3 @@
 How are you?: I am good, what about you?
 What are you?: I am a bot created by Izaya.
-test: no
+test: Sorry, seems like your doing a test?
