@@ -9,3 +9,4 @@ How are you?:
 How are you?: It was good
 What is Discord?: Discord is a program for gamers, families, schools, and more made for chatting.
 Should I hack?: No, hacking is not good and most of the time against TOS or against the law.
+feedback: To provide feedback type enable feedback, you can disable it by using disable feedback.
