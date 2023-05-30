@@ -20,3 +20,4 @@ whats 10+1: 11
 How are youuuu: I don't have feelings.
 Ho w: Seems like your trying to type how?
 how are you?: The response was nice and welcoming :)
+how re you?: I am a bot and I do not have feelings, how are you?
