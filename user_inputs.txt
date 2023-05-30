@@ -40,3 +40,4 @@ privacy: We collect the follow info: IPs, usernames, questions, and answers, by 
 privacy: good
 tos: We are still working on writing this but still have a right to ban whoever we want.
 tos: good
+How are you?: Bad
