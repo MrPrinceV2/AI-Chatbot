@@ -24,3 +24,4 @@ Test: I believe you are conducting a test.
 Privacy: We collect certain information, including IP addresses, usernames, questions, and answers. By using our services, you agree to the collection of this data.
 Terms of Service (TOS): We are in the process of finalizing our Terms of Service. We reserve the right to enforce necessary actions, including banning users, to ensure a positive experience for everyone.
 Hoe are you?: I am an AI bot, and I don't have feelings. How can I assist you today?
+Hey: Hey there! How can I assist you today?
