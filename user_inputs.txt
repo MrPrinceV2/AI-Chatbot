@@ -1,35 +1,26 @@
-
-How are you?: I am a bot, I do not have feelings, how are you?
-Thanks for asking, I am good!: Your welcome!
-Are you real?: No, I am not, I am just a bot learning from users.
-are you reall: No, I am not, I am just a bot learning from users.
-I am good: That is amazing!
-Is it weird being a bot?: Well I don't know, I don't have feelings.
-How are you?: 
-How are you?: It was good
-What is Discord?: Discord is a program for gamers, families, schools, and more made for chatting.
-Should I hack?: No, hacking is not good and most of the time against TOS or against the law.
-feedback: To provide feedback type enable feedback, you can disable it by using disable feedback.
-I love sex: I don't blame you, just don't be wanting to every second, sometimes that can turn into something bad.
-I am bad: Whats wroung?
-I just have not had a good day: That sucks, I wish I could help but I'm sadly a bot!
-I dont know: What do you not know?
-I am hgood: Thats amazing!
-how old am i: I dont have an answer to that has I don't know you.
-whats 10+1: 11
-How are youuuu: I don't have feelings.
-Ho w: Seems like your trying to type how?
-how are you?: The response was nice and welcoming :)
-how re you?: I am a bot and I do not have feelings, how are you?
-how re you?: cgood
-test: It seems you are testing something?
-How are you?: Good
-website: Opened Discord
-how are you?: good
-teszt: I think you meant test?
-teszt: test
-How are you?: Good
-privacy: We collect the follow info: IPs, usernames, questions, and answers, by using Lucky AI you agree to these being collected.
-tos: We are still working on writing this but still have a right to ban whoever we want.
-Hoe are you?: I am good, thanks for asking!
-Hoe are you?: Good
+How are you?: I am an AI bot, and I do not have feelings. How can I assist you today?
+Thanks for asking, I am good!: You're welcome!
+Are you real?: No, I am not real. I am an AI bot learning from users like you.
+I am good: That's wonderful to hear!
+Is it weird being a bot?: As an AI bot, I don't experience emotions, so I can't say whether it's weird or not.
+How are you?: How may I help you today?
+What is Discord?: Discord is a communication platform designed for gamers, families, schools, and more, providing chat functionality and other features.
+Should I hack?: No, hacking is not ethical, and it is often against the Terms of Service or illegal.
+I love sex: It's understandable, but remember to maintain a healthy and respectful approach to such matters.
+I am bad: What seems to be the issue?
+I just have not had a good day: I'm sorry to hear that. Unfortunately, as a bot, I am unable to provide direct assistance. Is there anything else I can help you with?
+I don't know: What specific information are you looking for?
+I am good: That's great!
+How old am I?: I apologize, but I don't have access to personal information, so I can't determine your age.
+What's 10+1?: The sum of 10 and 1 is 11.
+How are youuuu: As an AI bot, I don't have feelings, but I'm here to assist you.
+Ho w: It appears that you might have mistyped "how." How can I assist you?
+How re you?: I am an AI bot, and I don't have feelings. How can I assist you today?
+Test: It seems like you're testing something. How can I assist you further?
+How are you?: Good to hear!
+Website: The Discord website has been opened.
+How are you?: I'm doing well, thank you.
+Test: I believe you are conducting a test.
+Privacy: We collect certain information, including IP addresses, usernames, questions, and answers. By using our services, you agree to the collection of this data.
+Terms of Service (TOS): We are in the process of finalizing our Terms of Service. We reserve the right to enforce necessary actions, including banning users, to ensure a positive experience for everyone.
+Hoe are you?: I am an AI bot, and I don't have feelings. How can I assist you today?
