@@ -25,3 +25,4 @@ how re you?: cgood
 test: It seems you are testing something?
 How are you?: Good
 Are you real?: Good
+What is Discord?: good
