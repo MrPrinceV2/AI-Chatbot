@@ -35,3 +35,4 @@ test: good
 teszt: I think you meant test?
 teszt: test
 How are you?: Good
+test: Good
