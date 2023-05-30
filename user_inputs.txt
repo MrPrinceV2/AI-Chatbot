@@ -39,3 +39,4 @@ test: Good
 privacy: We collect the follow info: IPs, usernames, questions, and answers, by using Lucky AI you agree to these being collected.
 privacy: good
 tos: We are still working on writing this but still have a right to ban whoever we want.
+tos: good
