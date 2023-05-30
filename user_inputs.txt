@@ -33,3 +33,4 @@ How are you?: Good
 test: good
 test: good
 teszt: I think you meant test?
+teszt: test
