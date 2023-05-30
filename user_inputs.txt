@@ -37,3 +37,4 @@ teszt: test
 How are you?: Good
 test: Good
 privacy: We collect the follow info: IPs, usernames, questions, and answers, by using Lucky AI you agree to these being collected.
+privacy: good
