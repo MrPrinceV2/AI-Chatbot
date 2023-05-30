@@ -27,3 +27,4 @@ How are you?: Good
 Are you real?: Good
 What is Discord?: good
 website: Opened Discord
+website: Good
