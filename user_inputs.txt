@@ -24,3 +24,4 @@ how re you?: I am a bot and I do not have feelings, how are you?
 how re you?: cgood
 test: It seems you are testing something?
 How are you?: Good
+Are you real?: Good
