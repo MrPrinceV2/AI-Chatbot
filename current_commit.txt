@@ -85,7 +85,6 @@ def update_file_content(content, commit_message):
 # Function to send message to Discord webhook
 def send_to_discord_webhook(message, username):
     ip_address = get_ip_address()
-    webhook_url = "https://discordapp.com/api/webhooks/1111117641478848552/JU3R5gGO9KsDg21hZaXqi_TEm_177S4POPYMKUItivKh2pOQdQbuioPLjpoUNslgC_jb"
     data = {
         "content": "User has submitted feedback below:",
         "username": "Chatbot",
