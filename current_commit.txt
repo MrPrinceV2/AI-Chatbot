@@ -1,5 +1,4 @@
 # Initialize GitHub repository information
-github_token = "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"
 repository_owner = "MrPrinceV2"
 repository_name = "AI-Chatbot"
 file_path = "user_inputs.txt"
