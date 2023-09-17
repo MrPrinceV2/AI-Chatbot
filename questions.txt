@@ -1,3 +1,5 @@
 Hello | Hello, how may I help you?
 
 Are you real? | No I am not real.
+
+How are you? | Decline
