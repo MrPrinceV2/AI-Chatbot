@@ -4,3 +4,4 @@ Are you real? | No I am not real.
 
 How are you? | Decline
 Are you real? | decline
+How are you? | Declined to answer
