@@ -64,3 +64,4 @@ How do I create and use a context manager in Python? | You can create and use a 
 How do I create a Python package? | To create a Python package, you organize your Python code into a directory structure with an __init__.py file, allowing you to import and use modules as part of a package.
 How do I distribute my Python package to others? | You can distribute your Python package to others using the Python Package Index (PyPI) and tools like setuptools and twine for packaging and uploading your package.
 How do I document my Python code? | You can document your Python code using docstrings (triple-quoted strings) and tools like Sphinx to generate documentation in various formats.
+!commands | You can see the commands here: https://github.com/MrPrinceV2/AI-Chatbot/blob/main/README.md#commands
