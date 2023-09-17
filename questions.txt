@@ -67,3 +67,4 @@ How do I document my Python code? | You can document your Python code using docs
 !commands | You can see the commands here: https://github.com/MrPrinceV2/AI-Chatbot/blob/main/README.md#commands
 Is this a public open source project? | Yes, we have it in a exe due to githubs token system.
 Make me horny | Mmm baby your dick is so big spank me super hard I love you so much mmm fucking fuck me harder yesss baby
+clear | Use !clear to clear.
