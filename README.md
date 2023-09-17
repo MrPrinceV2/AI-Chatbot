@@ -9,6 +9,7 @@ If you are not **18+** then please do not download this has some questions/answe
 - [Commands](#commands)
 - [Security](#security)
 - [Backups](#backups)
+- [Installing](#installing)
 
 ## Features
 
@@ -34,6 +35,17 @@ If you are not **18+** then please do not download this has some questions/answe
 ## Backups
 
 The bot performs daily backups of the `questions.txt` file. Backups are saved in a secure location to prevent data loss.
+
+## Installing
+
+Option 1:
+You can use replit and to use it without downloading or anything: https://replit.com/@IzayaPantovich4/Lucky-AI
+
+Option 2:
+You can download the exe and run that and talk to the AI.
+
+Option 3:
+You can download the source code and set it up yourself.
 
 ---
 
