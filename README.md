@@ -1,6 +1,7 @@
 # Lucky AI - Q&A Bot (BETA)
 
 Lucky AI is an interactive Q&A bot powered by Python. It allows users to ask questions and provide answers, which are stored in a GitHub repository. This README.md provides an overview of the bot, its features, setup instructions, and available commands.
+If you are not **18+** then please do not download this has some questions/answers in the future may be 18+ depending on a what a user asks.
 
 ## Table of Contents
 
