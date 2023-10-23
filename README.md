@@ -59,7 +59,7 @@ We are committed to the security of our project. The following table indicates w
 
 | Version   | Supported           | Latest Version |
 | --------- | ------------------- | -------------- |
-| 1.0.x     | :white_check_mark: | :x:            |
+| 1.0.x     | :white_check_mark: | :white_check_mark:            |
 
 - **1.0.x:** The latest version that is actively receiving updates and security patches.
 
