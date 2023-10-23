@@ -57,8 +57,6 @@ Lucky AI is a simple yet effective Q&A bot designed to provide a modern and inte
 
 ---
 
----
-
 # Security Policy
 
 ## Supported Versions
@@ -81,8 +79,4 @@ For questions, issues, or contributions, please open an issue on this.
 
 ---
 
----
-
 Enjoy using Lucky AI!
-
----
