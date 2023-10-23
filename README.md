@@ -1,3 +1,5 @@
+---
+
 # Lucky AI - Interactive Q&A Bot (BETA)
 
 Welcome to Lucky AI, your interactive Q&A bot powered by Python. Lucky AI allows users to ask questions and provide answers, with all interactions stored in a GitHub repository. This README.md provides an insightful overview of the bot, including its features, setup instructions, and available commands. However, please note that if you are under the age of 18, we advise against downloading this, as some questions and answers may be 18+ depending on user interactions.
@@ -51,9 +53,11 @@ You can download the `.exe` file and run it to interact with the AI.
 Option 3:
 You can download the source code and set it up yourself.
 
+Lucky AI is a simple yet effective Q&A bot designed to provide a modern and interactive experience. Please use it responsibly and securely.
+
 ---
 
-Lucky AI is a simple yet effective Q&A bot designed to provide a modern and interactive experience. Please use it responsibly and securely.
+---
 
 # Security Policy
 
@@ -74,5 +78,7 @@ We are committed to the security of our project. The following table indicates w
 
 We take security vulnerabilities seriously. If you discover a security issue, please report it to us immediately by opening a new issue on our [GitHub repository](https://github.com/MrPrinceV2/AI-Chatbot/issues). We appreciate your responsible disclosure and will work diligently to address and resolve any security concerns.
 For questions, issues, or contributions, please open an issue on this.
+
+---
 
 Enjoy using Lucky AI!
