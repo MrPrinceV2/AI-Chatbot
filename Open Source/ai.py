@@ -19,9 +19,11 @@ os.system("title " + Title)
 # Initialize colorama for colored terminal output
 init(autoreset=True)
 
-GITHUB_TOKEN = "YOUR GITHUB TOKEN HERE" # GITHUB TOKEN
-REPO_NAME = "GITHUB REPO NAME" # GITHUB REPO NAME
-QUESTION_FILE = "questions.txt"  # FILE
+# Replace the following variable with your GitHub token
+GITHUB_TOKEN = "YOUR_GITHUB_TOKEN_HERE"  # GitHub Token
+REPO_NAME = "AI-Chatbot"  # Name of the GitHub repository
+QUESTION_FILE = "questions.txt"  # File to store Q&A data
+STATS_FILE = "stats.txt"  # File to store total runs
 
 clear_screen()
 
@@ -67,8 +69,29 @@ def add_question(question, answer):
     except Exception as e:
         print(f"{Fore.RED}AI: Error adding question: {e}{Style.RESET_ALL}")
 
+# Function to get and update total runs
+def get_total_runs():
+    try:
+        content = repo.get_contents(STATS_FILE)
+        total_runs = int(content.decoded_content.decode('utf-8').strip().replace('Total Runs: ', ''))
+        return total_runs
+    except Exception as e:
+        return 0
+
+def update_total_runs(total_runs):
+    try:
+        content = repo.get_contents(STATS_FILE)
+        new_content = f"Total Runs: {total_runs}"
+        repo.update_file(STATS_FILE, f"Update total runs", new_content, content.sha)
+    except Exception as e:
+        print(f"{Fore.RED}AI: Error updating total runs: {e}{Style.RESET_ALL}")
+
 # Welcome message
 print(f"{Fore.CYAN}AI: Welcome to the Q&A Bot! Ask me anything, type !commands for commands, or type 'exit' to quit.{Style.RESET_ALL}")
+
+# Update total runs
+total_runs = get_total_runs() + 1
+update_total_runs(total_runs)
 
 # Main loop
 while True:
@@ -103,5 +126,6 @@ while True:
                 print(f"{Fore.MAGENTA}AI: Your decision to decline has been recorded.{Style.RESET_ALL}")
                 add_question(question, "Declined to answer")
 
-# Print a goodbye message
+# Print a goodbye message and the total runs
 print(f"{Fore.CYAN}AI: Goodbye! Thank you for using Lucky AI.{Style.RESET_ALL}")
+print(f"{Fore.CYAN}AI: Total Runs: {total_runs}{Style.RESET_ALL}")
