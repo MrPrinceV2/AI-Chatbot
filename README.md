@@ -39,7 +39,7 @@ The bot performs daily backups of the `questions.txt` file. Backups are saved in
 ## Installing
 
 Option 1:
-You can use replit and to use it without downloading or anything: https://replit.com/@IzayaPantovich4/Lucky-AI
+We are working on a way to use Lucky AI without downloading, if you would like to see this recommened us some ways in issues or discussions.
 
 Option 2:
 You can download the exe and run that and talk to the AI.
