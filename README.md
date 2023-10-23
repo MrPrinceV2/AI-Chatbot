@@ -81,4 +81,8 @@ For questions, issues, or contributions, please open an issue on this.
 
 ---
 
+---
+
 Enjoy using Lucky AI!
+
+---
