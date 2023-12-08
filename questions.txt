@@ -609,3 +609,4 @@ How do I add or remove elements from a dictionary in Python? | You can add eleme
 What is a set in Python? | A set in Python is an unordered collection of unique elements. Sets are useful for storing and performing operations on unique values.
 How do I add and remove elements from a set in Python? | You can add elements to a set in Python using the add() method, and you can remove elements using the remove() or discard() methods.
 What is a tuple in Python? | A tuple in Python is an ordered collection of elements that is immutable, meaning its contents cannot be changed after creation.
+How do I format strings in Python? | You can format strings in Python using the str.format() method, f-strings (formatted string literals), or the % operator.
