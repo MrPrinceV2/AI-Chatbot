@@ -792,3 +792,4 @@ How do I make homemade sushi rolls? | Making homemade sushi rolls involves prepa
 What is 2 + 2? | 2 + 2 equals 4.
 What is 5 multiplied by 9? | 5 multiplied by 9 equals 45.
 What is 10 divided by 2? | 10 divided by 2 equals 5.
+What is the square of 7? | The square of 7 is 49.
