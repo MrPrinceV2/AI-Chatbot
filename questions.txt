@@ -1086,3 +1086,4 @@ What is the capital of China? | The capital of China is Beijing.
 Who wrote the play "Hamlet"? | William Shakespeare wrote the play "Hamlet."
 How do I start a blog for free? | Start a blog for free using platforms like WordPress.com or Blogger, and choose a niche you're passionate about.
 What is the function of red blood cells? | Red blood cells transport oxygen from the lungs to the rest of the body and help carry carbon dioxide back to the lungs.
+How do I make scrambled eggs? | Make scrambled eggs by beating eggs, adding salt and pepper, and cooking them in a pan with butter or oil while stirring.
