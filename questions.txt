@@ -846,3 +846,4 @@ What is the square root of 144? | The square root of 144 is 12.
 What is 7 squared? | 7 squared equals 49.
 What is 80 times 7? | 80 times 7 equals 560.
 What is 81 minus 9? | 81 minus 9 equals 72.
+What is 150 divided by 5? | 150 divided by 5 equals 30.
