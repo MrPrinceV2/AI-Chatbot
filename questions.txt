@@ -1130,3 +1130,4 @@ Who is the author of "One Hundred Years of Solitude"? | Gabriel García Márquez
 How do I make homemade chicken noodle soup? | Make homemade chicken noodle soup by simmering chicken, vegetables, and noodles in chicken broth with herbs and spices.
 What is the purpose of the European Union (EU)? | The European Union aims to promote economic cooperation, peace, and political stability among its member countries.
 Who painted "American Gothic," featuring a farmer and his daughter? | Grant Wood painted "American Gothic."
+How do I calculate the circumference of a circle? | Calculate the circumference of a circle using the formula C = 2πr, where "r" is the radius.
