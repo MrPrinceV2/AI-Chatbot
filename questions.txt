@@ -884,3 +884,4 @@ What is 9 plus 81? | 9 plus 81 equals 90.
 What is 25 squared? | 25 squared equals 625.
 What is 45 times 4? | 45 times 4 equals 180.
 What is 64 plus 32? | 64 plus 32 equals 96.
+What is 150 divided by 10? | 150 divided by 10 equals 15.
