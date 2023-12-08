@@ -900,3 +900,4 @@ What is 40 minus 10? | 40 minus 10 equals 30.
 What is 10 times 9? | 10 times 9 equals 90.
 What is 169 plus 25? | 169 plus 25 equals 194.
 What is the result of 72 divided by 8? | 72 divided by 8 equals 9.
+What is 7 plus 7? | 7 plus 7 equals 14.
