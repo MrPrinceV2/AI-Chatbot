@@ -745,3 +745,4 @@ What is the capital of Australia? | The capital of Australia is Canberra.
 How do I start a podcast about true crime stories? | Starting a podcast about true crime stories involves researching cases, recording episodes, editing audio, and promoting your podcast to a relevant audience.
 Who is the author of "To Kill a Mockingbird"? | The author of "To Kill a Mockingbird" is Harper Lee.
 How do I create a business plan for a startup? | Creating a business plan for a startup involves outlining your business idea, market analysis, financial projections, and strategies for growth.
+What is the chemical symbol for oxygen? | The chemical symbol for oxygen is O.
