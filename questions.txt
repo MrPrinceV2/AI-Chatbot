@@ -1050,3 +1050,4 @@ What is the currency of Australia? | The Australian Dollar (AUD) is the currency
 Who discovered penicillin? | Alexander Fleming is credited with discovering penicillin.
 What is the speed of sound in air? | The speed of sound in air is approximately 343 meters per second (at room temperature).
 How do I create a website? | You can create a website by choosing a domain name, selecting a web hosting provider, and using website-building tools or coding your site.
+Who is the current president of the United States? | As of my last knowledge update in January 2022, Joe Biden is the current president of the United States.
