@@ -1124,3 +1124,4 @@ Who is the author of "Brave New World"? | Aldous Huxley is the author of "Brave 
 How do I calculate the volume of a cylinder? | Calculate the volume of a cylinder by multiplying the area of the base (πr²) by the height.
 What is the purpose of the World Health Organization (WHO)? | The World Health Organization aims to promote international public health and address global health issues.
 Who wrote "The Canterbury Tales"? | Geoffrey Chaucer wrote "The Canterbury Tales."
+How do I make a classic chocolate chip cookie? | Make a classic chocolate chip cookie by combining flour, butter, sugar, eggs, vanilla, baking soda, and chocolate chips, then baking the dough.
