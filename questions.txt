@@ -747,3 +747,4 @@ Who is the author of "To Kill a Mockingbird"? | The author of "To Kill a Mocking
 How do I create a business plan for a startup? | Creating a business plan for a startup involves outlining your business idea, market analysis, financial projections, and strategies for growth.
 What is the chemical symbol for oxygen? | The chemical symbol for oxygen is O.
 How do I plant a vegetable garden? | Planting a vegetable garden involves choosing the right location, preparing the soil, selecting vegetable varieties, and properly caring for the plants.
+Who painted the Mona Lisa? | The Mona Lisa was painted by Leonardo da Vinci.
