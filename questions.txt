@@ -909,3 +909,4 @@ What is 15 times 10? | 15 times 10 equals 150.
 What is 11 minus 3? | 11 minus 3 equals 8.
 What is 8 multiplied by 8? | 8 multiplied by 8 equals 64.
 What is 225 divided by 5? | 225 divided by 5 equals 45.
+What is 90 plus 10? | 90 plus 10 equals 100.
