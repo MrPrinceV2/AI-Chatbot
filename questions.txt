@@ -727,3 +727,4 @@ What is the formula for calculating the area of a circle? | The formula for calc
 How do I tie a necktie? | Tying a necktie involves various methods, such as the Windsor knot, the half-Windsor knot, and the four-in-hand knot. The method you choose depends on your preference.
 What is the capital of Japan? | The capital of Japan is Tokyo.
 How do I make a cup of coffee? | To make a cup of coffee, you can use ground coffee beans and a coffee maker, or you can use instant coffee and hot water. The ratio of coffee to water depends on your taste.
+What is the difference between a debit card and a credit card? | A debit card allows you to spend money directly from your bank account, while a credit card allows you to borrow money up to a certain limit, which you must pay back later with interest.
