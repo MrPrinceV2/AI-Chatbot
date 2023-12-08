@@ -863,3 +863,4 @@ What is 144 minus 12? | 144 minus 12 equals 132.
 What is 81 divided by 3? | 81 divided by 3 equals 27.
 What is the square root of 121? | The square root of 121 is 11.
 What is 25 times 8? | 25 times 8 equals 200.
+What is 49 minus 9? | 49 minus 9 equals 40.
