@@ -1054,3 +1054,4 @@ Who is the current president of the United States? | As of my last knowledge upd
 What is the purpose of the United Nations? | The United Nations aims to promote international cooperation, peace, and security among nations.
 Who wrote the "Harry Potter" book series? | J.K. Rowling wrote the "Harry Potter" book series.
 How do I tie a necktie? | You can tie a necktie using various knots such as the Windsor, Half-Windsor, or Four-in-Hand knot.
+What is the formula for the area of a circle? | The formula for the area of a circle is A = πr², where "r" is the radius.
