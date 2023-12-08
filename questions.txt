@@ -851,3 +851,4 @@ What is 11 plus 39? | 11 plus 39 equals 50.
 What is 10 times 10? | 10 times 10 equals 100.
 What is 225 divided by 9? | 225 divided by 9 equals 25.
 What is the square root of 169? | The square root of 169 is 13.
+What is 13 squared? | 13 squared equals 169.
