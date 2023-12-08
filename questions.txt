@@ -615,3 +615,4 @@ How do I split a string into a list of substrings in Python? | You can split a s
 How do I join a list of strings into a single string in Python? | You can join a list of strings into a single string in Python using the join() method, which concatenates the strings with a specified separator.
 How do I generate random numbers in Python? | You can generate random numbers in Python using the random module, which provides functions for generating random integers, floats, and other random values.
 How do I work with JSON data in Python? | You can work with JSON data in Python using the json module, which provides functions for encoding and decoding JSON data.
+What is recursion in programming? | Recursion is a programming technique where a function calls itself to solve a problem. It is often used for problems that can be divided into smaller, similar subproblems.
