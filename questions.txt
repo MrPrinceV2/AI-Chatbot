@@ -812,3 +812,4 @@ What is the result of 75 divided by 5? | 75 divided by 5 equals 15.
 What is 12 plus 28? | 12 plus 28 equals 40.
 What is the cube root of 8? | The cube root of 8 is 2.
 What is 50 minus 19? | 50 minus 19 equals 31.
+What is 121 divided by 11? | 121 divided by 11 equals 11.
