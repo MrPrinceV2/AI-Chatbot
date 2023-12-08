@@ -725,3 +725,4 @@ Who wrote the play "Romeo and Juliet"? | "Romeo and Juliet" was written by Willi
 How do I create a budget for my expenses? | Creating a budget involves listing your income and expenses, setting spending limits, and tracking your spending to ensure you stay within your budget.
 What is the formula for calculating the area of a circle? | The formula for calculating the area of a circle is A = πr^2, where A is the area and r is the radius of the circle.
 How do I tie a necktie? | Tying a necktie involves various methods, such as the Windsor knot, the half-Windsor knot, and the four-in-hand knot. The method you choose depends on your preference.
+What is the capital of Japan? | The capital of Japan is Tokyo.
