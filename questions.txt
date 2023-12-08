@@ -1075,3 +1075,4 @@ How do I make a classic Martini? | To make a classic Martini, mix gin and dry ve
 What is the meaning of the word "ephemeral"? | "Ephemeral" refers to something transient or lasting for a short time.
 How do I grow tomatoes in a garden? | Grow tomatoes by planting seeds or seedlings in well-drained soil, providing support as they grow, and ensuring adequate water and sunlight.
 Who is the author of "1984"? | George Orwell is the author of "1984."
+How do I solve a Rubik's Cube? | Solve a Rubik's Cube by learning algorithms for each step, starting with one side and progressing to solve the entire cube.
