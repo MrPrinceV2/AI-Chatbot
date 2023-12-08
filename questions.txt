@@ -877,3 +877,4 @@ What is 32 times 5? | 32 times 5 equals 160.
 What is 121 minus 11? | 121 minus 11 equals 110.
 What is 100 divided by 10? | 100 divided by 10 equals 10.
 What is the cube of 7? | The cube of 7 is 343.
+What is 48 minus 24? | 48 minus 24 equals 24.
