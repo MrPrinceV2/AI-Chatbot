@@ -839,3 +839,4 @@ What is 60 times 3? | 60 times 3 equals 180.
 What is 64 minus 8? | 64 minus 8 equals 56.
 What is 125 divided by 5? | 125 divided by 5 equals 25.
 What is 15 plus 25? | 15 plus 25 equals 40.
+What is the cube of 5? | The cube of 5 is 125.
