@@ -946,3 +946,4 @@ Who is the current Prime Minister of Japan? | The current Prime Minister of Japa
 How do I create a Facebook page for my nonprofit organization? | To create a Facebook page for your nonprofit organization, log in to Facebook, go to the Pages section, and follow the steps to set up your page with relevant information and mission.
 What is the national anthem of France? | The national anthem of France is "La Marseillaise."
 How do I start a blog about pet care and animal welfare? | Starting a blog about pet care involves sharing information on pet health, training, and responsible pet ownership to help pet lovers care for their animals.
+Who is the author of "The Chronicles of Narnia" series? | "The Chronicles of Narnia" series was written by C.S. Lewis.
