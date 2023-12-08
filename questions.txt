@@ -741,3 +741,4 @@ Who is the CEO of Apple Inc.? | The CEO of Apple Inc. is Tim Cook.
 How do I start a YouTube channel about technology reviews? | Starting a YouTube channel about technology reviews involves researching and testing tech products, creating high-quality videos, and building an audience interested in tech-related content.
 What is the difference between a laptop and a desktop computer? | A laptop is a portable computer with a built-in screen and keyboard, while a desktop computer is typically larger and stays in one location with separate components like a monitor, keyboard, and mouse.
 How do I make a classic margarita cocktail? | To make a classic margarita cocktail, you'll need ingredients like tequila, lime juice, triple sec, and ice. I can provide you with a detailed recipe if you'd like.
+What is the capital of Australia? | The capital of Australia is Canberra.
