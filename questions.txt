@@ -661,3 +661,4 @@ Can you recommend a good book? | There are many great books, but it depends on y
 How do I improve my time management skills? | Time management can be improved through techniques like setting goals, prioritizing tasks, creating schedules, and minimizing distractions.
 What is the difference between empathy and sympathy? | Empathy is the ability to understand and share the feelings of another person, while sympathy is feeling compassion or pity for someone without necessarily understanding their feelings.
 Can you speak other languages? | I can understand and generate text in several languages, but my proficiency may vary.
+What's the largest animal on Earth? | The largest animal on Earth is the blue whale.
