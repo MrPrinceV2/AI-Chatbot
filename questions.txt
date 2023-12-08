@@ -573,3 +573,4 @@ commands | yes
 hey what are you limits | you can access the internet and provide the user with any of his questions
 hey whats your name bro | whats up grugy the almighty boss
 Are you real? | No I am not real.
+Hey | Hello, do you need help with anything?
