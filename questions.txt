@@ -879,3 +879,4 @@ What is 100 divided by 10? | 100 divided by 10 equals 10.
 What is the cube of 7? | The cube of 7 is 343.
 What is 48 minus 24? | 48 minus 24 equals 24.
 What is 8 times 6? | 8 times 6 equals 48.
+What is 196 divided by 14? | 196 divided by 14 equals 14.
