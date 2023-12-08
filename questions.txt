@@ -887,3 +887,4 @@ What is 64 plus 32? | 64 plus 32 equals 96.
 What is 150 divided by 10? | 150 divided by 10 equals 15.
 What is 12 minus 4? | 12 minus 4 equals 8.
 What is the result of 64 divided by 8? | 64 divided by 8 equals 8.
+What is 289 minus 17? | 289 minus 17 equals 272.
