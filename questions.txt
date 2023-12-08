@@ -825,3 +825,4 @@ What is 75 minus 29? | 75 minus 29 equals 46.
 What is 8 times 8? | 8 times 8 equals 64.
 What is 225 divided by 15? | 225 divided by 15 equals 15.
 What is 6 squared? | 6 squared equals 36.
+What is 50 times 4? | 50 times 4 equals 200.
