@@ -717,3 +717,4 @@ What is the difference between weather and climate? | Weather refers to short-te
 Can you tell me a joke about computers? | Sure, here's one: Why was the computer cold? Because it left its Windows open!
 How do I start streaming? | To start streaming, select a platform, set up streaming software (such as Streamlabs OBS), and create engaging content
 What is the square root of 64? | The square root of 64 is 8.
+Who is the current President of the United States? | I do not have access to real-time information. Please check the latest news for the current President.
