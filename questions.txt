@@ -889,3 +889,4 @@ What is 12 minus 4? | 12 minus 4 equals 8.
 What is the result of 64 divided by 8? | 64 divided by 8 equals 8.
 What is 289 minus 17? | 289 minus 17 equals 272.
 What is 7 times 9? | 7 times 9 equals 63.
+What is 256 plus 64? | 256 plus 64 equals 320.
