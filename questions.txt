@@ -836,3 +836,4 @@ What is 256 divided by 16? | 256 divided by 16 equals 16.
 What is the square root of 100? | The square root of 100 is 10.
 What is 12 squared? | 12 squared equals 144.
 What is 60 times 3? | 60 times 3 equals 180.
+What is 64 minus 8? | 64 minus 8 equals 56.
