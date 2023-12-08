@@ -625,3 +625,4 @@ How do I work with databases in Python? | You can work with databases in Python 
 How do I create a graphical user interface (GUI) in Python? | You can create GUI applications in Python using libraries like tkinter, PyQt, PyGTK, or wxPython to design and build user interfaces.
 How do I send and receive email in Python? | You can send and receive email in Python using the smtplib and imaplib libraries for SMTP and IMAP protocols, respectively.
 What is web scraping, and how do I scrape web data in Python? | Web scraping is the process of extracting data from websites. You can scrape web data in Python using libraries like BeautifulSoup and Scrapy to parse HTML and XML documents.
+How do I work with XML data in Python? | You can work with XML data in Python using the xml.etree.ElementTree module, which provides functions for parsing and manipulating XML documents.
