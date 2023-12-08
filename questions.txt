@@ -1071,3 +1071,4 @@ Who is the founder of Microsoft? | Bill Gates is a co-founder of Microsoft.
 How do I write a resume? | Write a resume by including your contact information, a summary or objective, work experience, education, skills, and relevant achievements.
 What is the capital of Brazil? | The capital of Brazil is Brasília.
 Who composed the Symphony No. 9, also known as the "Choral Symphony"? | Ludwig van Beethoven composed the Symphony No. 9.
+How do I make a classic Martini? | To make a classic Martini, mix gin and dry vermouth, and garnish with an olive or a twist of lemon.
