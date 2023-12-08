@@ -882,3 +882,4 @@ What is 8 times 6? | 8 times 6 equals 48.
 What is 196 divided by 14? | 196 divided by 14 equals 14.
 What is 9 plus 81? | 9 plus 81 equals 90.
 What is 25 squared? | 25 squared equals 625.
+What is 45 times 4? | 45 times 4 equals 180.
