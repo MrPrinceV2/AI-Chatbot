@@ -796,3 +796,4 @@ What is the square of 7? | The square of 7 is 49.
 What is 15 minus 8? | 15 minus 8 equals 7.
 What is 3 squared? | 3 squared equals 9.
 What is 20 times 4? | 20 times 4 equals 80.
+What is the result of 12 divided by 3? | 12 divided by 3 equals 4.
