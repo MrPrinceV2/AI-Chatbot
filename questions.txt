@@ -1113,3 +1113,4 @@ How do I start a fitness routine? | Start a fitness routine by setting goals, ch
 What is the capital of India? | The capital of India is New Delhi.
 Who is the author of "The Iliad"? | Homer is traditionally considered the author of "The Iliad."
 How do I make a classic Italian tiramisu? | Make a classic Italian tiramisu by layering coffee-soaked ladyfingers with a mixture of mascarpone, eggs, sugar, and cocoa.
+What is the process of nuclear fusion? | Nuclear fusion is the process by which atomic nuclei combine to form a heavier nucleus, releasing a large amount of energy.
