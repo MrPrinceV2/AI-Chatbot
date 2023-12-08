@@ -751,3 +751,4 @@ Who painted the Mona Lisa? | The Mona Lisa was painted by Leonardo da Vinci.
 How do I make homemade pasta from scratch? | Making homemade pasta from scratch involves mixing flour and eggs, kneading the dough, rolling it out, and cutting it into desired shapes. I can provide you with a detailed recipe if you'd like.
 What is the capital of Brazil? | The capital of Brazil is Brasília.
 How do I create a resume for a job application? | Creating a resume for a job application involves listing your qualifications, work experience, skills, and achievements in a clear and organized format.
+Who wrote "The Great Gatsby"? | "The Great Gatsby" was written by F. Scott Fitzgerald.
