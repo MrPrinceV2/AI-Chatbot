@@ -579,3 +579,4 @@ Test | What are you testing?
 Testing | What are you testing?
 Tester | What are you testing?
 Are you real | No I am not real.
+How do I install Python on Windows? | You can install Python on Windows by downloading the latest Python installer from the official Python website and following the installation instructions.
