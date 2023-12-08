@@ -867,3 +867,4 @@ What is 49 minus 9? | 49 minus 9 equals 40.
 What is 64 multiplied by 3? | 64 multiplied by 3 equals 192.
 What is the result of 120 divided by 5? | 120 divided by 5 equals 24.
 What is 15 minus 5? | 15 minus 5 equals 10.
+What is 11 times 7? | 11 times 7 equals 77.
