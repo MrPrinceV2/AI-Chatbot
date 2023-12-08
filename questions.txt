@@ -822,3 +822,4 @@ What is the result of 64 divided by 4? | 64 divided by 4 equals 16.
 What is 144 plus 37? | 144 plus 37 equals 181.
 What is the cube of 3? | The cube of 3 is 27.
 What is 75 minus 29? | 75 minus 29 equals 46.
+What is 8 times 8? | 8 times 8 equals 64.
