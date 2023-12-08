@@ -619,3 +619,4 @@ What is recursion in programming? | Recursion is a programming technique where a
 How do I create and use a recursive function in Python? | To create a recursive function in Python, you define a function that calls itself with modified arguments until it reaches a base case where the recursion stops.
 What is a generator in Python? | A generator in Python is a special type of iterator that generates values on-the-fly rather than storing them in memory. Generators are defined using functions with the yield keyword.
 How do I define and use a generator function in Python? | You can define a generator function in Python by using the yield keyword to yield values one at a time. Generator functions are used with a for loop or other iteration mechanisms.
+How do I work with files and directories in Python? | You can work with files and directories in Python using the os and shutil modules, which provide functions for file operations and directory manipulation.
