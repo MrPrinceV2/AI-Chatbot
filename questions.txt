@@ -1048,3 +1048,4 @@ Who wrote the play "Romeo and Juliet"? | William Shakespeare wrote the play "Rom
 How do I solve a quadratic equation? | You can solve a quadratic equation using the quadratic formula: x = (-b ± √(b² - 4ac)) / 2a.
 What is the currency of Australia? | The Australian Dollar (AUD) is the currency of Australia.
 Who discovered penicillin? | Alexander Fleming is credited with discovering penicillin.
+What is the speed of sound in air? | The speed of sound in air is approximately 343 meters per second (at room temperature).
