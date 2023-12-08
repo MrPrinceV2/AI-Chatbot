@@ -769,3 +769,4 @@ What is the chemical symbol for carbon? | The chemical symbol for carbon is C.
 How do I make homemade guacamole? | To make homemade guacamole, you'll need ingredients like avocados, lime juice, onions, and cilantro. I can provide you with a detailed recipe if you'd like.
 What is the national animal of Canada? | The national animal of Canada is the beaver.
 How do I create a Twitter account for my business? | To create a Twitter account for your business, visit the Twitter website, sign up, and customize your profile with relevant information and branding.
+Who is the author of "1984"? | "1984" was written by George Orwell.
