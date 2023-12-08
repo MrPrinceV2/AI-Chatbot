@@ -834,3 +834,4 @@ What is 121 plus 19? | 121 plus 19 equals 140.
 What is the cube root of 27? | The cube root of 27 is 3.
 What is 256 divided by 16? | 256 divided by 16 equals 16.
 What is the square root of 100? | The square root of 100 is 10.
+What is 12 squared? | 12 squared equals 144.
