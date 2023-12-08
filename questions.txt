@@ -665,3 +665,4 @@ What's the largest animal on Earth? | The largest animal on Earth is the blue wh
 How do I meditate? | Meditation involves finding a quiet space, focusing your attention, and calming your mind. There are various meditation techniques you can explore.
 What is the Fibonacci sequence? | The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, typically starting with 0 and 1 (e.g., 0, 1, 1, 2, 3, 5, 8, 13...).
 Can you recommend a good movie? | Sure, what genre of movie are you in the mood for?
+What is the speed of light? | The speed of light in a vacuum is approximately 299,792,458 meters per second (or about 186,282 miles per second).
