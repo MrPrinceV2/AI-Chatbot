@@ -647,3 +647,4 @@ Can you tell a joke? | Sure, here's one: Why did the scarecrow win an award? Bec
 Tell me a fun fact. | Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.
 What's the weather like today? | I'm sorry, I don't have access to real-time data. You can check a weather website or app for current conditions.
 How does a computer work? | Computers work by processing instructions in the form of binary code (0s and 1s) using a central processing unit (CPU), memory, and various input and output devices.
+Who is your creator? | I was developed by a team of engineers and researchers at OpenAI.
