@@ -584,3 +584,4 @@ What is a variable in programming? | A variable is a named storage location in a
 How do I create a list in Python? | You can create a list in Python by using square brackets and separating the elements with commas, like this: my_list = [1, 2, 3].
 What is a for loop in programming? | A for loop is a control structure that allows you to repeatedly execute a block of code a specified number of times or for each item in a sequence.
 How can I open a file in Python? | You can open a file in Python using the built-in open() function, which takes the file name and an optional mode parameter.
+How do I comment out code in Python? | In Python, you can use the "#" symbol to add comments. Anything following "#" on a line is considered a comment and is ignored by the Python interpreter.
