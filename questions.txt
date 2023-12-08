@@ -1045,3 +1045,4 @@ How do I say "hello" in French? | "Bonjour" is the French word for "hello."
 What is the largest planet in our solar system? | Jupiter is the largest planet in our solar system.
 What is the purpose of the liver in the human body? | The liver plays a crucial role in detoxification, metabolism, and the production of proteins.
 Who wrote the play "Romeo and Juliet"? | William Shakespeare wrote the play "Romeo and Juliet."
+How do I solve a quadratic equation? | You can solve a quadratic equation using the quadratic formula: x = (-b ± √(b² - 4ac)) / 2a.
