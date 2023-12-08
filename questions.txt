@@ -905,3 +905,4 @@ What is 80 times 8? | 80 times 8 equals 640.
 What is 9 multiplied by 7? | 9 multiplied by 7 equals 63.
 What is 25 minus 15? | 25 minus 15 equals 10.
 What is 64 squared? | 64 squared equals 4,096.
+What is 15 times 10? | 15 times 10 equals 150.
