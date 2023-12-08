@@ -898,3 +898,4 @@ What is 8 minus 3? | 8 minus 3 equals 5.
 What is 36 times 6? | 36 times 6 equals 216.
 What is 40 minus 10? | 40 minus 10 equals 30.
 What is 10 times 9? | 10 times 9 equals 90.
+What is 169 plus 25? | 169 plus 25 equals 194.
