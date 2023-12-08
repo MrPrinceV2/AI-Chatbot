@@ -809,3 +809,4 @@ What is 64 divided by 8? | 64 divided by 8 equals 8.
 What is 100 minus 37? | 100 minus 37 equals 63.
 What is 16 multiplied by 3? | 16 multiplied by 3 equals 48.
 What is the result of 75 divided by 5? | 75 divided by 5 equals 15.
+What is 12 plus 28? | 12 plus 28 equals 40.
