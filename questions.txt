@@ -841,3 +841,4 @@ What is 125 divided by 5? | 125 divided by 5 equals 25.
 What is 15 plus 25? | 15 plus 25 equals 40.
 What is the cube of 5? | The cube of 5 is 125.
 What is 90 minus 42? | 90 minus 42 equals 48.
+What is 9 times 9? | 9 times 9 equals 81.
