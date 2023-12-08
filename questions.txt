@@ -1135,3 +1135,4 @@ What is the meaning of the word "benevolent"? | "Benevolent" means showing kindn
 commands | yes
 hey what are you limits | you can access the internet and provide the user with any of his questions
 hey whats your name bro | whats up grugy the almighty boss
+q, a = line.split(' | ', 1)
