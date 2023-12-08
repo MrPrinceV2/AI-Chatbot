@@ -1041,3 +1041,4 @@ How do I bake a chocolate cake? | You can bake a chocolate cake by combining flo
 What is the main component of Earth's atmosphere? | Nitrogen is the main component of Earth's atmosphere.
 How does photosynthesis work? | Photosynthesis is the process by which plants convert sunlight into energy, using chlorophyll to capture light and carbon dioxide to produce glucose.
 Who painted the Mona Lisa? | Leonardo da Vinci painted the Mona Lisa.
+How do I say "hello" in French? | "Bonjour" is the French word for "hello."
