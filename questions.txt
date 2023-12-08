@@ -830,3 +830,4 @@ What is 49 divided by 7? | 49 divided by 7 equals 7.
 What is 16 minus 5? | 16 minus 5 equals 11.
 What is 9 multiplied by 6? | 9 multiplied by 6 equals 54.
 What is the result of 81 divided by 9? | 81 divided by 9 equals 9.
+What is 121 plus 19? | 121 plus 19 equals 140.
