@@ -694,3 +694,4 @@ Tell me a random fact about space. | Sure, here's one: Space is completely silen
 What is quantum computing? | Quantum computing is a type of computing that uses quantum bits (qubits) to process and store information. It has the potential to solve complex problems much faster than classical computers.
 How do I become a better public speaker? | Improving your public speaking skills involves practice, preparation, and gaining confidence. You can also consider joining a public speaking club or taking courses.
 Can you sing a song? | I can't sing, but I can provide song lyrics or discuss music-related topics.
+What's the difference between a virus and malware? | A virus is a type of malware. Malware is a broad term that includes any software designed to harm or exploit computer systems, while viruses are a specific type that can replicate themselves and infect other files or systems.
