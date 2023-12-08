@@ -870,3 +870,4 @@ What is 15 minus 5? | 15 minus 5 equals 10.
 What is 11 times 7? | 11 times 7 equals 77.
 What is 225 plus 25? | 225 plus 25 equals 250.
 What is the cube root of 64? | The cube root of 64 is 4.
+What is 36 minus 9? | 36 minus 9 equals 27.
