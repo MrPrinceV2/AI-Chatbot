@@ -894,3 +894,4 @@ What is 81 divided by 27? | 81 divided by 27 equals 3.
 What is the square root of 25? | The square root of 25 is 5.
 What is 11 squared? | 11 squared equals 121.
 What is 50 plus 150? | 50 plus 150 equals 200.
+What is 8 minus 3? | 8 minus 3 equals 5.
