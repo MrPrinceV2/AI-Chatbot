@@ -649,3 +649,4 @@ What's the weather like today? | I'm sorry, I don't have access to real-time dat
 How does a computer work? | Computers work by processing instructions in the form of binary code (0s and 1s) using a central processing unit (CPU), memory, and various input and output devices.
 Who is your creator? | I was developed by a team of engineers and researchers at OpenAI.
 What is the meaning of life? | The meaning of life is a philosophical question with no definitive answer. It often depends on one's personal beliefs and values.
+Can you solve a Rubik's Cube? | I can provide instructions on how to solve a Rubik's Cube, but I don't have physical abilities to manipulate objects.
