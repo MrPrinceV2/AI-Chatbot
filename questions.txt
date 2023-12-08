@@ -828,3 +828,4 @@ What is 6 squared? | 6 squared equals 36.
 What is 50 times 4? | 50 times 4 equals 200.
 What is 49 divided by 7? | 49 divided by 7 equals 7.
 What is 16 minus 5? | 16 minus 5 equals 11.
+What is 9 multiplied by 6? | 9 multiplied by 6 equals 54.
