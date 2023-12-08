@@ -844,3 +844,4 @@ What is 90 minus 42? | 90 minus 42 equals 48.
 What is 9 times 9? | 9 times 9 equals 81.
 What is the square root of 144? | The square root of 144 is 12.
 What is 7 squared? | 7 squared equals 49.
+What is 80 times 7? | 80 times 7 equals 560.
