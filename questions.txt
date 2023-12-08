@@ -913,3 +913,4 @@ What is 90 plus 10? | 90 plus 10 equals 100.
 What is 64 divided by 16? | 64 divided by 16 equals 4.
 What is 100 minus 50? | 100 minus 50 equals 50.
 What is 16 times 5? | 16 times 5 equals 80.
+What is the result of 36 divided by 4? | 36 divided by 4 equals 9.
