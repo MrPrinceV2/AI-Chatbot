@@ -791,3 +791,4 @@ What is the chemical symbol for nitrogen? | The chemical symbol for nitrogen is 
 How do I make homemade sushi rolls? | Making homemade sushi rolls involves preparing sushi rice, selecting fillings, rolling the sushi with nori seaweed, and slicing it into bite-sized pieces. I can provide you with a detailed recipe if you'd like.
 What is 2 + 2? | 2 + 2 equals 4.
 What is 5 multiplied by 9? | 5 multiplied by 9 equals 45.
+What is 10 divided by 2? | 10 divided by 2 equals 5.
