@@ -621,3 +621,4 @@ What is a generator in Python? | A generator in Python is a special type of iter
 How do I define and use a generator function in Python? | You can define a generator function in Python by using the yield keyword to yield values one at a time. Generator functions are used with a for loop or other iteration mechanisms.
 How do I work with files and directories in Python? | You can work with files and directories in Python using the os and shutil modules, which provide functions for file operations and directory manipulation.
 How do I make HTTP requests in Python? | You can make HTTP requests in Python using the requests library, which provides a simple and convenient way to send HTTP GET, POST, and other requests.
+How do I work with databases in Python? | You can work with databases in Python using database-specific libraries (e.g., sqlite3, MySQLdb, psycopg2) or high-level libraries like SQLAlchemy for database abstraction.
