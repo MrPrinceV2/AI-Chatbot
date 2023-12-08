@@ -1062,3 +1062,4 @@ Who is the Greek god of thunder? | Zeus is the Greek god of thunder.
 How do I change a flat tire on a car? | To change a flat tire, use a jack to lift the car, remove the lug nuts, take off the flat tire, and replace it with a spare tire.
 What is the process of digestion in the human body? | Digestion is the process of breaking down food into nutrients for absorption, involving organs like the stomach, small intestine, and pancreas.
 Who painted "Starry Night"? | Vincent van Gogh painted "Starry Night."
+How do I play the guitar? | To play the guitar, learn basic chords, practice strumming and fingerpicking, and gradually progress to more complex techniques.
