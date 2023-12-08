@@ -749,3 +749,4 @@ What is the chemical symbol for oxygen? | The chemical symbol for oxygen is O.
 How do I plant a vegetable garden? | Planting a vegetable garden involves choosing the right location, preparing the soil, selecting vegetable varieties, and properly caring for the plants.
 Who painted the Mona Lisa? | The Mona Lisa was painted by Leonardo da Vinci.
 How do I make homemade pasta from scratch? | Making homemade pasta from scratch involves mixing flour and eggs, kneading the dough, rolling it out, and cutting it into desired shapes. I can provide you with a detailed recipe if you'd like.
+What is the capital of Brazil? | The capital of Brazil is Brasília.
