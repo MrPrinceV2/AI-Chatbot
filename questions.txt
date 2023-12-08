@@ -1102,3 +1102,4 @@ Who wrote the "Lord of the Rings" trilogy? | J.R.R. Tolkien wrote the "Lord of t
 How do I calculate the area of a rectangle? | Calculate the area of a rectangle by multiplying its length by its width.
 What is the process of metamorphosis in insects? | Metamorphosis is the process of transformation from an immature form to an adult form in insects, involving stages such as egg, larva, pupa, and adult.
 Who painted "The Girl with a Pearl Earring"? | Johannes Vermeer painted "The Girl with a Pearl Earring."
+How do I make a classic mojito? | To make a classic mojito, muddle mint leaves and lime wedges, add simple syrup, rum, and ice, then top with soda water.
