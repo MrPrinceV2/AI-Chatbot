@@ -606,3 +606,4 @@ What is list comprehension in Python? | List comprehension is a concise way to c
 How do I sort a list in Python? | You can sort a list in Python using the sort() method, which sorts the list in-place, or using the sorted() function, which returns a new sorted list.
 What is a dictionary in Python? | A dictionary in Python is an unordered collection of key-value pairs. Dictionaries are used to store and retrieve data based on keys rather than indexes.
 How do I add or remove elements from a dictionary in Python? | You can add elements to a dictionary in Python by using the dict[key] = value syntax. To remove elements, you can use the del statement or the pop() method.
+What is a set in Python? | A set in Python is an unordered collection of unique elements. Sets are useful for storing and performing operations on unique values.
