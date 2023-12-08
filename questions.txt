@@ -617,3 +617,4 @@ How do I generate random numbers in Python? | You can generate random numbers in
 How do I work with JSON data in Python? | You can work with JSON data in Python using the json module, which provides functions for encoding and decoding JSON data.
 What is recursion in programming? | Recursion is a programming technique where a function calls itself to solve a problem. It is often used for problems that can be divided into smaller, similar subproblems.
 How do I create and use a recursive function in Python? | To create a recursive function in Python, you define a function that calls itself with modified arguments until it reaches a base case where the recursion stops.
+What is a generator in Python? | A generator in Python is a special type of iterator that generates values on-the-fly rather than storing them in memory. Generators are defined using functions with the yield keyword.
