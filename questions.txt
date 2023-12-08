@@ -595,3 +595,4 @@ What is inheritance in OOP? | Inheritance is a mechanism in object-oriented prog
 How do I handle exceptions in Python? | You can handle exceptions in Python using try and except blocks. Code that may raise an exception is placed in the try block, and you can specify how to handle the exception in the except block.
 What is a module in Python? | A module in Python is a file containing Python code, including variables, functions, and classes. Modules are used to organize and reuse code in different Python programs.
 How do I import a module in Python? | You can import a module in Python using the import keyword, followed by the module name. For example, import math imports the math module.
+What is a package in Python? | A package in Python is a collection of related modules organized in a directory hierarchy. Packages allow you to group and organize your code in a structured way.
