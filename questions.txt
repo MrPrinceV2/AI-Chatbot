@@ -708,3 +708,4 @@ Can you tell me a bedtime story? | Of course, here's a short one: Once upon a ti
 How do I stay motivated to exercise regularly? | Staying motivated to exercise regularly can be challenging. Setting clear goals, finding enjoyable activities, and establishing a routine can help maintain motivation.
 What is the concept of "artificial narrow intelligence" (ANI)? | Artificial narrow intelligence (ANI) refers to AI systems that are specialized in performing a specific task or a narrow range of tasks. They are not capable of generalizing their knowledge to other domains.
 How do I start a YouTube gaming channel? | Starting a YouTube gaming channel involves choosing your niche, creating engaging content, optimizing video titles and descriptions, and building an audience.
+Tell me a fun fact about animals. | Sure, here's one: Octopuses have three hearts. Two pump blood to the gills, while the third pumps it to the rest of the body.
