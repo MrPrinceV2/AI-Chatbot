@@ -1121,3 +1121,4 @@ Who discovered electricity? | Benjamin Franklin is known for his experiments wit
 How do I make homemade guacamole? | Make homemade guacamole by mashing ripe avocados and mixing them with diced tomatoes, onions, cilantro, lime juice, and salt.
 What is the function of the cerebellum in the brain? | The cerebellum is responsible for coordinating voluntary movements, balance, and posture.
 Who is the author of "Brave New World"? | Aldous Huxley is the author of "Brave New World."
+How do I calculate the volume of a cylinder? | Calculate the volume of a cylinder by multiplying the area of the base (πr²) by the height.
