@@ -651,3 +651,4 @@ Who is your creator? | I was developed by a team of engineers and researchers at
 What is the meaning of life? | The meaning of life is a philosophical question with no definitive answer. It often depends on one's personal beliefs and values.
 Can you solve a Rubik's Cube? | I can provide instructions on how to solve a Rubik's Cube, but I don't have physical abilities to manipulate objects.
 Tell me a riddle. | Here's one: I'm not alive, but I can grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I? (Answer: A fire)
+What is the capital of France? | The capital of France is Paris.
