@@ -892,3 +892,4 @@ What is 7 times 9? | 7 times 9 equals 63.
 What is 256 plus 64? | 256 plus 64 equals 320.
 What is 81 divided by 27? | 81 divided by 27 equals 3.
 What is the square root of 25? | The square root of 25 is 5.
+What is 11 squared? | 11 squared equals 121.
