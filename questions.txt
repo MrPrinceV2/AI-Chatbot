@@ -794,3 +794,4 @@ What is 5 multiplied by 9? | 5 multiplied by 9 equals 45.
 What is 10 divided by 2? | 10 divided by 2 equals 5.
 What is the square of 7? | The square of 7 is 49.
 What is 15 minus 8? | 15 minus 8 equals 7.
+What is 3 squared? | 3 squared equals 9.
