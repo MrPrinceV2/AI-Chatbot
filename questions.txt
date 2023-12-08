@@ -872,3 +872,4 @@ What is 225 plus 25? | 225 plus 25 equals 250.
 What is the cube root of 64? | The cube root of 64 is 4.
 What is 36 minus 9? | 36 minus 9 equals 27.
 What is 80 divided by 4? | 80 divided by 4 equals 20.
+What is 10 squared? | 10 squared equals 100.
