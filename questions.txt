@@ -636,3 +636,4 @@ What is a context manager in Python? | A context manager in Python is an object 
 How do I create and use a context manager in Python? | You can create and use a context manager in Python by defining a class with __enter__() and __exit__() methods or using the contextlib module to create context managers with decorators.
 How do I create a Python package? | To create a Python package, you organize your Python code into a directory structure with an __init__.py file, allowing you to import and use modules as part of a package.
 How do I distribute my Python package to others? | You can distribute your Python package to others using the Python Package Index (PyPI) and tools like setuptools and twine for packaging and uploading your package.
+How do I document my Python code? | You can document your Python code using docstrings (triple-quoted strings) and tools like Sphinx to generate documentation in various formats.
