@@ -856,3 +856,4 @@ What is 40 times 5? | 40 times 5 equals 200.
 What is 64 divided by 4? | 64 divided by 4 equals 16.
 What is 125 plus 25? | 125 plus 25 equals 150.
 What is the cube of 6? | The cube of 6 is 216.
+What is 60 minus 18? | 60 minus 18 equals 42.
