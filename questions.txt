@@ -588,3 +588,4 @@ How do I comment out code in Python? | In Python, you can use the "#" symbol to 
 What is the difference between Python 2 and Python 3? | Python 3 is the latest version of Python and is not backward compatible with Python 2. Python 3 has many new features and improvements, and it is recommended for all new Python projects.
 What is a function in Python? | A function in Python is a block of reusable code that performs a specific task. Functions are defined using the def keyword, and they can accept input parameters and return values.
 How do I install third-party libraries in Python? | You can use the pip package manager to install third-party libraries in Python. For example, you can run pip install library_name to install a library.
+How do I read user input in Python? | You can use the input() function in Python to read user input from the keyboard. The input() function returns a string containing the user's input.
