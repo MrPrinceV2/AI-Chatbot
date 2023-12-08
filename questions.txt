@@ -800,3 +800,4 @@ What is the result of 12 divided by 3? | 12 divided by 3 equals 4.
 What is 25 plus 13? | 25 plus 13 equals 38.
 What is the cube of 4? | The cube of 4 is 64.
 What is 18 minus 6? | 18 minus 6 equals 12.
+What is 7 multiplied by 6? | 7 multiplied by 6 equals 42.
