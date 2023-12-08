@@ -1039,3 +1039,4 @@ What is Void Hub? | Void Hub is a FiveM script development team, you can view mo
 What is the capital of Japan? | The capital of Japan is Tokyo.
 How do I bake a chocolate cake? | You can bake a chocolate cake by combining flour, sugar, cocoa powder, eggs, milk, and baking powder, then baking the mixture in an oven.
 What is the main component of Earth's atmosphere? | Nitrogen is the main component of Earth's atmosphere.
+How does photosynthesis work? | Photosynthesis is the process by which plants convert sunlight into energy, using chlorophyll to capture light and carbon dioxide to produce glucose.
