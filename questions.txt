@@ -702,3 +702,4 @@ What is the Higgs boson? | The Higgs boson is a subatomic particle that gives ot
 How do I start investing in stocks? | To start investing in stocks, you'll need to open a brokerage account, research companies, and consider your investment strategy and risk tolerance.
 What is the purpose of life? | The purpose of life is a deeply philosophical question, and different people have different beliefs and interpretations of it. It often relates to one's personal values and goals.
 Can you recommend a good book for beginners in programming? | Sure, a great book for beginners in programming is "Python Crash Course" by Eric Matthes. It's beginner-friendly and covers Python programming.
+How do I create a strong password? | A strong password should be long, include a mix of letters (both upper and lower case), numbers, and special characters. Avoid using easily guessable information like birthdays or common words.
