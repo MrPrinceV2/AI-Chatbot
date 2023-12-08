@@ -654,3 +654,4 @@ Tell me a riddle. | Here's one: I'm not alive, but I can grow; I don't have lung
 What is the capital of France? | The capital of France is Paris.
 How do I bake chocolate chip cookies? | To bake chocolate chip cookies, you'll need ingredients like flour, sugar, butter, chocolate chips, and more. I can provide you with a detailed recipe if you'd like.
 How do I learn a new language? | Learning a new language involves practice, study, and immersion. You can use language learning apps, courses, and interact with native speakers.
+What's your favorite color? | I don't have personal preferences, including a favorite color.
