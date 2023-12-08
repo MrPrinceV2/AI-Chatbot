@@ -581,3 +581,4 @@ Tester | What are you testing?
 Are you real | No I am not real.
 How do I install Python on Windows? | You can install Python on Windows by downloading the latest Python installer from the official Python website and following the installation instructions.
 What is a variable in programming? | A variable is a named storage location in a program's memory used to store data that can be changed during the program's execution.
+How do I create a list in Python? | You can create a list in Python by using square brackets and separating the elements with commas, like this: my_list = [1, 2, 3].
