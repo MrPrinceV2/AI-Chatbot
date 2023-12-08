@@ -818,3 +818,4 @@ What is 40 times 6? | 40 times 6 equals 240.
 What is 36 divided by 4? | 36 divided by 4 equals 9.
 What is 200 minus 88? | 200 minus 88 equals 112.
 What is 14 multiplied by 9? | 14 multiplied by 9 equals 126.
+What is the result of 64 divided by 4? | 64 divided by 4 equals 16.
