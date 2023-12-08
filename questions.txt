@@ -586,3 +586,4 @@ What is a for loop in programming? | A for loop is a control structure that allo
 How can I open a file in Python? | You can open a file in Python using the built-in open() function, which takes the file name and an optional mode parameter.
 How do I comment out code in Python? | In Python, you can use the "#" symbol to add comments. Anything following "#" on a line is considered a comment and is ignored by the Python interpreter.
 What is the difference between Python 2 and Python 3? | Python 3 is the latest version of Python and is not backward compatible with Python 2. Python 3 has many new features and improvements, and it is recommended for all new Python projects.
+What is a function in Python? | A function in Python is a block of reusable code that performs a specific task. Functions are defined using the def keyword, and they can accept input parameters and return values.
