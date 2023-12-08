@@ -726,3 +726,4 @@ How do I create a budget for my expenses? | Creating a budget involves listing y
 What is the formula for calculating the area of a circle? | The formula for calculating the area of a circle is A = πr^2, where A is the area and r is the radius of the circle.
 How do I tie a necktie? | Tying a necktie involves various methods, such as the Windsor knot, the half-Windsor knot, and the four-in-hand knot. The method you choose depends on your preference.
 What is the capital of Japan? | The capital of Japan is Tokyo.
+How do I make a cup of coffee? | To make a cup of coffee, you can use ground coffee beans and a coffee maker, or you can use instant coffee and hot water. The ratio of coffee to water depends on your taste.
