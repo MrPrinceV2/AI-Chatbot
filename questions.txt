@@ -896,3 +896,4 @@ What is 11 squared? | 11 squared equals 121.
 What is 50 plus 150? | 50 plus 150 equals 200.
 What is 8 minus 3? | 8 minus 3 equals 5.
 What is 36 times 6? | 36 times 6 equals 216.
+What is 40 minus 10? | 40 minus 10 equals 30.
