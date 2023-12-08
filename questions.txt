@@ -610,3 +610,4 @@ What is a set in Python? | A set in Python is an unordered collection of unique 
 How do I add and remove elements from a set in Python? | You can add elements to a set in Python using the add() method, and you can remove elements using the remove() or discard() methods.
 What is a tuple in Python? | A tuple in Python is an ordered collection of elements that is immutable, meaning its contents cannot be changed after creation.
 How do I format strings in Python? | You can format strings in Python using the str.format() method, f-strings (formatted string literals), or the % operator.
+How do I work with regular expressions in Python? | You can work with regular expressions in Python using the re module, which provides functions for pattern matching and text manipulation.
