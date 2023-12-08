@@ -580,3 +580,4 @@ Testing | What are you testing?
 Tester | What are you testing?
 Are you real | No I am not real.
 How do I install Python on Windows? | You can install Python on Windows by downloading the latest Python installer from the official Python website and following the installation instructions.
+What is a variable in programming? | A variable is a named storage location in a program's memory used to store data that can be changed during the program's execution.
