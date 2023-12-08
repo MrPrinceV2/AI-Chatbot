@@ -807,3 +807,4 @@ What is 9 squared? | 9 squared equals 81.
 What is 30 times 5? | 30 times 5 equals 150.
 What is 64 divided by 8? | 64 divided by 8 equals 8.
 What is 100 minus 37? | 100 minus 37 equals 63.
+What is 16 multiplied by 3? | 16 multiplied by 3 equals 48.
