@@ -860,3 +860,4 @@ What is 60 minus 18? | 60 minus 18 equals 42.
 What is 8 squared? | 8 squared equals 64.
 What is 100 times 6? | 100 times 6 equals 600.
 What is 144 minus 12? | 144 minus 12 equals 132.
+What is 81 divided by 3? | 81 divided by 3 equals 27.
