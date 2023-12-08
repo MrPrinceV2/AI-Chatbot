@@ -1038,3 +1038,4 @@ whats 5+5? | Five feet five inches (5'5") is equal to 165.1 cm. This is because 
 What is Void Hub? | Void Hub is a FiveM script development team, you can view more about them by going to https://discord.gg/ZHcwnRgK4D.
 What is the capital of Japan? | The capital of Japan is Tokyo.
 How do I bake a chocolate cake? | You can bake a chocolate cake by combining flour, sugar, cocoa powder, eggs, milk, and baking powder, then baking the mixture in an oven.
+What is the main component of Earth's atmosphere? | Nitrogen is the main component of Earth's atmosphere.
