@@ -1103,3 +1103,4 @@ How do I calculate the area of a rectangle? | Calculate the area of a rectangle 
 What is the process of metamorphosis in insects? | Metamorphosis is the process of transformation from an immature form to an adult form in insects, involving stages such as egg, larva, pupa, and adult.
 Who painted "The Girl with a Pearl Earring"? | Johannes Vermeer painted "The Girl with a Pearl Earring."
 How do I make a classic mojito? | To make a classic mojito, muddle mint leaves and lime wedges, add simple syrup, rum, and ice, then top with soda water.
+What is the function of white blood cells? | White blood cells play a crucial role in the immune system, defending the body against infections and foreign substances.
