@@ -715,3 +715,4 @@ Can you recommend a good documentary to watch? | Certainly, the documentary "Pla
 How do I make a resume? | Creating a resume involves organizing your work and educational history, highlighting your skills and achievements, and tailoring it for specific job applications.
 What is the difference between weather and climate? | Weather refers to short-term atmospheric conditions (e.g., daily temperature and precipitation), while climate refers to long-term patterns and averages of weather in a particular region.
 Can you tell me a joke about computers? | Sure, here's one: Why was the computer cold? Because it left its Windows open!
+How do I start streaming? | To start streaming, select a platform, set up streaming software (such as Streamlabs OBS), and create engaging content
