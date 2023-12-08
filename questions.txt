@@ -816,3 +816,4 @@ What is 121 divided by 11? | 121 divided by 11 equals 11.
 What is 5 squared? | 5 squared equals 25.
 What is 40 times 6? | 40 times 6 equals 240.
 What is 36 divided by 4? | 36 divided by 4 equals 9.
+What is 200 minus 88? | 200 minus 88 equals 112.
