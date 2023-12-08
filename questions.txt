@@ -803,3 +803,4 @@ What is 18 minus 6? | 18 minus 6 equals 12.
 What is 7 multiplied by 6? | 7 multiplied by 6 equals 42.
 What is 144 divided by 12? | 144 divided by 12 equals 12.
 What is the square root of 49? | The square root of 49 is 7.
+What is 9 squared? | 9 squared equals 81.
