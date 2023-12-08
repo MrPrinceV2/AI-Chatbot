@@ -611,3 +611,4 @@ How do I add and remove elements from a set in Python? | You can add elements to
 What is a tuple in Python? | A tuple in Python is an ordered collection of elements that is immutable, meaning its contents cannot be changed after creation.
 How do I format strings in Python? | You can format strings in Python using the str.format() method, f-strings (formatted string literals), or the % operator.
 How do I work with regular expressions in Python? | You can work with regular expressions in Python using the re module, which provides functions for pattern matching and text manipulation.
+How do I split a string into a list of substrings in Python? | You can split a string into a list of substrings in Python using the split() method, which splits the string based on a specified delimiter.
