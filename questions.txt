@@ -667,3 +667,4 @@ What is the Fibonacci sequence? | The Fibonacci sequence is a series of numbers 
 Can you recommend a good movie? | Sure, what genre of movie are you in the mood for?
 What is the speed of light? | The speed of light in a vacuum is approximately 299,792,458 meters per second (or about 186,282 miles per second).
 How do I make a paper airplane? | To make a paper airplane, you can follow folding instructions to create different designs. Would you like a specific design?
+What is climate change? | Climate change refers to long-term shifts in temperature and weather patterns on Earth, often attributed to human activities like burning fossil fuels.
