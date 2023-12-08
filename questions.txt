@@ -799,3 +799,4 @@ What is 20 times 4? | 20 times 4 equals 80.
 What is the result of 12 divided by 3? | 12 divided by 3 equals 4.
 What is 25 plus 13? | 25 plus 13 equals 38.
 What is the cube of 4? | The cube of 4 is 64.
+What is 18 minus 6? | 18 minus 6 equals 12.
