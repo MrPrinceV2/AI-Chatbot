@@ -630,3 +630,4 @@ How do I work with CSV files in Python? | You can work with CSV (Comma-Separated
 How do I interact with the command-line in Python? | You can interact with the command-line in Python using the argparse module to parse command-line arguments and options.
 How do I create and use a virtual environment in Python? | You can create and use virtual environments in Python using the venv module to isolate project dependencies and versions.
 How do I work with multi-threading and multi-processing in Python? | You can work with multi-threading and multi-processing in Python using the threading and multiprocessing modules to run concurrent tasks in separate threads or processes.
+What is a decorator in Python? | A decorator in Python is a function that takes another function as input and extends or modifies its behavior. Decorators are often used for adding functionality to functions or methods.
