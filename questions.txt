@@ -622,3 +622,4 @@ How do I define and use a generator function in Python? | You can define a gener
 How do I work with files and directories in Python? | You can work with files and directories in Python using the os and shutil modules, which provide functions for file operations and directory manipulation.
 How do I make HTTP requests in Python? | You can make HTTP requests in Python using the requests library, which provides a simple and convenient way to send HTTP GET, POST, and other requests.
 How do I work with databases in Python? | You can work with databases in Python using database-specific libraries (e.g., sqlite3, MySQLdb, psycopg2) or high-level libraries like SQLAlchemy for database abstraction.
+How do I create a graphical user interface (GUI) in Python? | You can create GUI applications in Python using libraries like tkinter, PyQt, PyGTK, or wxPython to design and build user interfaces.
