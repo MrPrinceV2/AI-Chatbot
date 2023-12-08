@@ -596,3 +596,4 @@ How do I handle exceptions in Python? | You can handle exceptions in Python usin
 What is a module in Python? | A module in Python is a file containing Python code, including variables, functions, and classes. Modules are used to organize and reuse code in different Python programs.
 How do I import a module in Python? | You can import a module in Python using the import keyword, followed by the module name. For example, import math imports the math module.
 What is a package in Python? | A package in Python is a collection of related modules organized in a directory hierarchy. Packages allow you to group and organize your code in a structured way.
+How do I create a virtual environment in Python? | You can create a virtual environment in Python using the venv module or the virtualenv package. Virtual environments are used to isolate Python environments for different projects.
