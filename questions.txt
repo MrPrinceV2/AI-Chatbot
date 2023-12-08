@@ -632,3 +632,4 @@ How do I create and use a virtual environment in Python? | You can create and us
 How do I work with multi-threading and multi-processing in Python? | You can work with multi-threading and multi-processing in Python using the threading and multiprocessing modules to run concurrent tasks in separate threads or processes.
 What is a decorator in Python? | A decorator in Python is a function that takes another function as input and extends or modifies its behavior. Decorators are often used for adding functionality to functions or methods.
 How do I create and use decorators in Python? | You can create and use decorators in Python by defining a decorator function and using the @ symbol to apply it to other functions or methods.
+What is a context manager in Python? | A context manager in Python is an object that defines methods __enter__() and __exit__() to set up and tear down a context, such as file handling or resource management.
