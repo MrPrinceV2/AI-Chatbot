@@ -607,3 +607,4 @@ How do I sort a list in Python? | You can sort a list in Python using the sort()
 What is a dictionary in Python? | A dictionary in Python is an unordered collection of key-value pairs. Dictionaries are used to store and retrieve data based on keys rather than indexes.
 How do I add or remove elements from a dictionary in Python? | You can add elements to a dictionary in Python by using the dict[key] = value syntax. To remove elements, you can use the del statement or the pop() method.
 What is a set in Python? | A set in Python is an unordered collection of unique elements. Sets are useful for storing and performing operations on unique values.
+How do I add and remove elements from a set in Python? | You can add elements to a set in Python using the add() method, and you can remove elements using the remove() or discard() methods.
