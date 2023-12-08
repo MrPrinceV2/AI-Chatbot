@@ -1133,3 +1133,4 @@ Who painted "American Gothic," featuring a farmer and his daughter? | Grant Wood
 How do I calculate the circumference of a circle? | Calculate the circumference of a circle using the formula C = 2πr, where "r" is the radius.
 What is the meaning of the word "benevolent"? | "Benevolent" means showing kindness, goodwill, and a desire to help others.
 commands | yes
+hey what are you limits | you can access the internet and provide the user with any of his questions
