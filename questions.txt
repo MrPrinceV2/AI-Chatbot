@@ -722,3 +722,4 @@ How do I bake a chocolate cake? | To bake a chocolate cake, you'll need ingredie
 What is the largest planet in our solar system? | The largest planet in our solar system is Jupiter.
 How do I change the oil in my car? | Changing the oil in your car involves draining the old oil, replacing the oil filter, and adding new engine oil. It's recommended to consult your car's manual for specific instructions.
 Who wrote the play "Romeo and Juliet"? | "Romeo and Juliet" was written by William Shakespeare.
+How do I create a budget for my expenses? | Creating a budget involves listing your income and expenses, setting spending limits, and tracking your spending to ensure you stay within your budget.
