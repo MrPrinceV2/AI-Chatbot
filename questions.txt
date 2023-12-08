@@ -623,3 +623,4 @@ How do I work with files and directories in Python? | You can work with files an
 How do I make HTTP requests in Python? | You can make HTTP requests in Python using the requests library, which provides a simple and convenient way to send HTTP GET, POST, and other requests.
 How do I work with databases in Python? | You can work with databases in Python using database-specific libraries (e.g., sqlite3, MySQLdb, psycopg2) or high-level libraries like SQLAlchemy for database abstraction.
 How do I create a graphical user interface (GUI) in Python? | You can create GUI applications in Python using libraries like tkinter, PyQt, PyGTK, or wxPython to design and build user interfaces.
+How do I send and receive email in Python? | You can send and receive email in Python using the smtplib and imaplib libraries for SMTP and IMAP protocols, respectively.
