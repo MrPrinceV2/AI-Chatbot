@@ -712,3 +712,4 @@ Tell me a fun fact about animals. | Sure, here's one: Octopuses have three heart
 What is the difference between a fact and an opinion? | A fact is a statement that can be objectively proven to be true or false, while an opinion is a personal belief or view that may not be based on concrete evidence.
 How do I improve my memory? | Improving memory involves techniques like practicing mindfulness, getting enough sleep, staying mentally active, and using memory aids like notes or mnemonic devices.
 Can you recommend a good documentary to watch? | Certainly, the documentary "Planet Earth II" is a stunning exploration of our planet's diverse ecosystems and wildlife. It offers breathtaking visuals and educational insights into the natural world.
+How do I make a resume? | Creating a resume involves organizing your work and educational history, highlighting your skills and achievements, and tailoring it for specific job applications.
