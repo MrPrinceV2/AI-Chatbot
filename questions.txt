@@ -714,3 +714,4 @@ How do I improve my memory? | Improving memory involves techniques like practici
 Can you recommend a good documentary to watch? | Certainly, the documentary "Planet Earth II" is a stunning exploration of our planet's diverse ecosystems and wildlife. It offers breathtaking visuals and educational insights into the natural world.
 How do I make a resume? | Creating a resume involves organizing your work and educational history, highlighting your skills and achievements, and tailoring it for specific job applications.
 What is the difference between weather and climate? | Weather refers to short-term atmospheric conditions (e.g., daily temperature and precipitation), while climate refers to long-term patterns and averages of weather in a particular region.
+Can you tell me a joke about computers? | Sure, here's one: Why was the computer cold? Because it left its Windows open!
