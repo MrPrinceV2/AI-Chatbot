@@ -644,3 +644,4 @@ clear | Use !clear to clear.
 What's your name? | I'm just a computer program, so I don't have a name.
 How old are you? | I don't have an age since I'm not a living being.
 Can you tell a joke? | Sure, here's one: Why did the scarecrow win an award? Because he was outstanding in his field!
+Tell me a fun fact. | Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.
