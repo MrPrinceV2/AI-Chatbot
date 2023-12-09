@@ -1138,3 +1138,4 @@ hey whats your name bro | whats up grugy the almighty boss
 q, a = line.split(' | ', 1)
 new_content = f"{current_content.rstrip()}\n{question.strip()} | {answer.strip()}"
 new_content = f"{current_content.rstrip()}\n{question.strip()} | {answer.strip()}"
+app.run(main)yes | C:\Users\dmcgr\Downloads\nq_browser.py
