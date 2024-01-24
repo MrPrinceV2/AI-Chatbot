@@ -66,7 +66,7 @@ We are committed to the security of our project. The following table indicates w
 | Version   | Supported           | Latest Version |
 | --------- | ------------------- | -------------- |
 | 1.0.1     | ✅ | ✅            |
-| 1.0.0     | ❌ | ❌            |
+| 1.0.0     | ✅ | ❌            |
 
 - **1.0.x:** The latest version that is actively receiving updates and security patches.
 
