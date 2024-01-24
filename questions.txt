@@ -1133,10 +1133,13 @@ Who painted "American Gothic," featuring a farmer and his daughter? | Grant Wood
 How do I calculate the circumference of a circle? | Calculate the circumference of a circle using the formula C = 2πr, where "r" is the radius.
 What is the meaning of the word "benevolent"? | "Benevolent" means showing kindness, goodwill, and a desire to help others.
 commands | yes
-hey what are you limits | you can access the internet and provide the user with any of his questions
-hey whats your name bro | whats up grugy the almighty boss
+hey what are you limits | you can access the internet and provide the user with any questions
+hey whats your name bro | I do not have a name, my name is Lucky AI.
 q, a = line.split(' | ', 1)
 new_content = f"{current_content.rstrip()}\n{question.strip()} | {answer.strip()}"
 new_content = f"{current_content.rstrip()}\n{question.strip()} | {answer.strip()}"
 app.run(main)yes | C:\Users\dmcgr\Downloads\nq_browser.py
-Who is bellieb2244? | 
+Who is bellieb2244? | Bellaboo is a snapchat user.
+Who is bellieb2244 | Bellaboo is a snapchat user.
+Who is Bellaboo? | Bellaboo is a snapchat user.
+Who is Bellaboo | Bellaboo is a snapchat user.
